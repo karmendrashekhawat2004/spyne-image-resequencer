@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | **What it is** | A browser tool (one HTML page) plus an optional local version (`app.py`) |
-| **Live link** | https://karmendrashekhawat.github.io/spyne-image-resequencer/resequencer.html |
+| **Live link** | **https://karmendrashekhawat2004.github.io/spyne-image-resequencer/resequencer.html** |
 | **Works on** | Any Spyne console team: paste the team's inventory link and your console token |
 | **What it changes** | Only the **order** of a car's photos, using the same call as the console's *Images › Resequence › Save Sequence* button |
 | **Safety** | Preview before any change, one-click undo, token kept in memory only, nothing changed until you click **Fix** |
